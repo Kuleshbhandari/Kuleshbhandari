@@ -19,12 +19,14 @@ I engage in independent ecological research and contribute to national and inter
 - **Zenodo Publications**
   - [Ecological Dynamics and Conservation Strategies of Wildlife in Jharkhand](https://doi.org/10.5281/zenodo.15525046)
   - [Pollinator Diversity in Cultivated and Uncultivated Flower Zones](https://doi.org/10.5281/zenodo.15620077)
+    [ Ant Foraging Behavior Across Contrasting Landscapes:A Field Study] (https://doi.org/10.5281/zenodo.15714262)
 
 - **Conference Presentations**
   -  *ZSI Kolkata – National Conference on Invasive Alien Fauna (2025)* – Poster Presenter  
   -  *SKMU National Seminar (2025)* – Oral Presenter  
   -  *IIRST–ICVBDPHR, Egypt (Oct 2025)* – Upcoming International Poster  
   -  *WEkEO–CARPA Climate Workshop (2025)* – Earth Observation & Climate Applications
+  - * Marine Data 4 Asia 2025 Workshop 
 
 ---
 
